@@ -1,0 +1,1 @@
+{"name":"routfits-cloudflare","version":"1.0.0","private":true,"scripts":{"dev":"wrangler pages dev public --binding STRIPE_SECRET_KEY=sk_test_REPLACE_ME","deploy":"wrangler pages deploy public --project-name routfits"},"devDependencies":{"wrangler":"^4.0.0"}}
